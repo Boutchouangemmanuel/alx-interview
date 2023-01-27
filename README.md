@@ -1,3 +1,3 @@
 # alx-interview
-alx-interview
-ALX projects
+* alx-interview
+* ALX projects
